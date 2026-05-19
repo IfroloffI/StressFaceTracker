@@ -205,7 +205,7 @@ private fun StatusOverlay(
             )
 
             Text(
-                text = "$emotionEmoji Анализ эмоционального состояния",
+                text = "$emotionEmoji Анализ изображения",
                 style = MaterialTheme.typography.titleMedium,
                 fontWeight = FontWeight.SemiBold,
                 color = Color.White
